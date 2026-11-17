@@ -5,5 +5,4 @@
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
 **/android/.gradle/
-**/android/local.properties
 **/.idea/
